@@ -4,6 +4,8 @@
 
 > 它不采集、不上传任何 skill / 插件的内容。所有状态只写在本机 `~/.dsh/skill-center/state.json`。
 
+仓库：<https://github.com/93Nong/dsh-skill-center> · 问题：<https://github.com/93Nong/dsh-skill-center/issues>
+
 ---
 
 ## 它解决什么问题

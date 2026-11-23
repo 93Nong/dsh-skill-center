@@ -46,5 +46,14 @@
         "@deepseek-ai/dsh-client-locale"
       ]
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/93Nong/dsh-skill-center.git"
+  },
+  "homepage": "https://github.com/93Nong/dsh-skill-center#readme",
+  "bugs": {
+    "url": "https://github.com/93Nong/dsh-skill-center/issues"
+  },
+  "author": "93Nong"
 }
