@@ -1,0 +1,18 @@
+# 依赖与产物
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# 运行时数据（绝不提交）
+state.json
+client.log
+*.bak
+*.bak-skill-center
+*.tmp
+
+# 打包产物
+*.tgz
+
+# 系统
+Thumbs.db
+.DS_Store

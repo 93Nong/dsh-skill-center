@@ -1,0 +1,7 @@
+# Bundle patch layer: host half of the Skill centre — one Cordis row loading index.js.
+- insert:
+    - id: skill-center
+      name: "dsh-skill-center"
+      config:
+        # Extra scan roots, beyond the built-in ones (the page can add more at runtime).
+        roots: []
